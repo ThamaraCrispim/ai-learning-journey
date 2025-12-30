@@ -19,7 +19,7 @@ O curso é uma iniciativa da [PrograMaria](https://www.programaria.org/) em parc
 
 - [x] Módulo 1 - Introdução e conceitos básicos
 - [x] Módulo 2 - Ferramentas e frameworks
-- [ ] Módulo 3 -
+- [x] Módulo 3 - Criando os seus próprios agentes - Ferramentas e Frameworks na prática
 - [ ] Módulo 4 -
 - [ ] Módulo 5 -
 - [ ] Módulo 6 -
